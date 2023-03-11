@@ -28,6 +28,8 @@ namespace CursoCSharp_2_variables
             Console.WriteLine(edad);
             Console.ReadLine();
 
+            var peso = 85;
+
         }
     }
 }
