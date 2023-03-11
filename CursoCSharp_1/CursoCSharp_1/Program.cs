@@ -42,12 +42,42 @@ namespace CursoCSharp_1
             Console.WriteLine("Bytes reservados para el tipo byte:" + sizeof(byte));
             Console.WriteLine("Bytes reservados para el tipo sbyte:" + sizeof(sbyte));
             Console.WriteLine("Bytes reservados para el tipo short:" + sizeof(short));
+            Console.WriteLine("Bytes reservados para el tipo ushort:" + sizeof(ushort));
+            Console.WriteLine("Bytes reservados para el tipo int:" + sizeof(int));
+            Console.WriteLine("Bytes reservados para el tipo uint:" + sizeof(uint));
+            Console.WriteLine("Bytes reservados para el tipo long:" + sizeof(long));
+            Console.WriteLine("Bytes reservados para el tipo float:" + sizeof(float));
+            Console.WriteLine("Bytes reservados para el tipo double:" + sizeof(double));
+            Console.WriteLine("Bytes reservados para el tipo decimal:" + sizeof(decimal));
+            Console.WriteLine("Bytes reservados para el tipo char:" + sizeof(char));
+            Console.WriteLine("Bytes reservados para el tipo bool:" + sizeof(bool));
+            Console.ReadKey();
 
+            Console.WriteLine("Valor mpínimo y máximo para tipo de dato float.");
+            Console.WriteLine("Mínimo:" + float.MinValue);
+            Console.WriteLine("Máximo:" + float.MaxValue);
+            Console.WriteLine("Valor mínimo y máximo para tipo de dato doouble.");
+            Console.WriteLine("Mínimo:" + double.MinValue);
+            Console.WriteLine("Máximo:" + double.MaxValue);
+            Console.WriteLine("Valor mínimo y máximo para tipo de dato decimal.");
+            Console.WriteLine("Mínimo:" + decimal.MinValue);
+            Console.WriteLine("Máximo:" + decimal.MaxValue);
+            Console.ReadKey();
 
+            char caracter = 'a';
+            Console.WriteLine("Caracter:" + caracter);
 
+            string cadena = "Cadena";
+            Console.WriteLine("Cadena:" + cadena);
 
+            bool boleano = false;
+            Console.WriteLine("Esto es : " + boleano);
 
+            dynamic dinamico = "hola";
+            Console.WriteLine("Este tipo es dinamico:" + dinamico);
 
+            object objeto = 15;
+            Console.WriteLine("Este tipo es un objeto:" + objeto);
 
 
 
