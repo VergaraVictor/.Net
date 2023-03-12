@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_7_do", "..\Curs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_8_while", "..\CursoCSharp_8_while\CursoCSharp_8_while.csproj", "{38FEFB0A-1D70-4C95-B479-8A61DF10EB7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_9_for", "..\CursoCSharp_9_for\CursoCSharp_9_for.csproj", "{067FBB6E-B3D9-42A8-B165-4786215216CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{38FEFB0A-1D70-4C95-B479-8A61DF10EB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38FEFB0A-1D70-4C95-B479-8A61DF10EB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38FEFB0A-1D70-4C95-B479-8A61DF10EB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067FBB6E-B3D9-42A8-B165-4786215216CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067FBB6E-B3D9-42A8-B165-4786215216CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067FBB6E-B3D9-42A8-B165-4786215216CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067FBB6E-B3D9-42A8-B165-4786215216CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
