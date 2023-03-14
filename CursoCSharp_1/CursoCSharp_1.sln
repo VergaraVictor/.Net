@@ -5,9 +5,11 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_1", "CursoCSharp_1\CursoCSharp_1.csproj", "{3EA6394A-BF1C-4C38-8438-E705EDF4F740}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo_1_4-5", "..\ejemplo_1_4-5\ejemplo_1_4-5.csproj", "{664E6500-8ACA-4C7E-B078-A34082629356}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejemplo_1_4-5", "..\ejemplo_1_4-5\ejemplo_1_4-5.csproj", "{664E6500-8ACA-4C7E-B078-A34082629356}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_4_constantes", "..\CursoCSharp_4_constantes\CursoCSharp_4_constantes.csproj", "{7B74ED26-830A-4874-ABB7-E2AE01B81414}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_4_constantes", "..\CursoCSharp_4_constantes\CursoCSharp_4_constantes.csproj", "{7B74ED26-830A-4874-ABB7-E2AE01B81414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_10_foreach", "..\CursoCSharp_10_foreach\CursoCSharp_10_foreach.csproj", "{2451E02C-274C-4C8A-84D9-4DD2F5B074C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{7B74ED26-830A-4874-ABB7-E2AE01B81414}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B74ED26-830A-4874-ABB7-E2AE01B81414}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B74ED26-830A-4874-ABB7-E2AE01B81414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2451E02C-274C-4C8A-84D9-4DD2F5B074C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2451E02C-274C-4C8A-84D9-4DD2F5B074C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2451E02C-274C-4C8A-84D9-4DD2F5B074C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2451E02C-274C-4C8A-84D9-4DD2F5B074C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
