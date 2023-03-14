@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using static System.Console;
 
 namespace CursoCSharp_10_foreach
 {
@@ -10,7 +12,7 @@ namespace CursoCSharp_10_foreach
 
             foreach (var numero in listaDeNumero)
             {
-                Console.WriteLine(numero);
+                WriteLine(numero);
             }
 
             var listaDePersonas = new List<Persona>();
