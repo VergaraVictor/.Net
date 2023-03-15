@@ -17,13 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_12_leyendo_argu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_13_arrays", "..\CursoCSharp_13_arrays\CursoCSharp_13_arrays.csproj", "{60719D67-DC7B-4696-83ED-26EDB1FEC4B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_14_conversiones_tipo", "..\CursoCSharp_14_conversiones_tipo\CursoCSharp_14_conversiones_tipo.csproj", "{D2FA9B9C-C89D-4CF7-8BB2-D0CC8022F183}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_14_conversiones_tipo", "..\CursoCSharp_14_conversiones_tipo\CursoCSharp_14_conversiones_tipo.csproj", "{D2FA9B9C-C89D-4CF7-8BB2-D0CC8022F183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_metodos", "..\CursoCSharp_1_metodos\CursoCSharp_1_metodos.csproj", "{D9D45EB8-C1D1-43D9-8352-7F8639E86A75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_1_metodos", "..\CursoCSharp_1_metodos\CursoCSharp_1_metodos.csproj", "{D9D45EB8-C1D1-43D9-8352-7F8639E86A75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_2_procedimientos_funciones", "..\CursoCSharp_2_funciones\CursoCSharp_2_procedimientos_funciones.csproj", "{6B0FBCA5-A61E-41D8-A58A-B76CEC7DD93F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_2_procedimientos_funciones", "..\CursoCSharp_2_funciones\CursoCSharp_2_procedimientos_funciones.csproj", "{6B0FBCA5-A61E-41D8-A58A-B76CEC7DD93F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_3_funciones", "..\CursoCSharp_3_funciones\CursoCSharp_3_funciones.csproj", "{976A6E5C-37D5-4EA5-BB85-29640DD2D581}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_3_funciones", "..\CursoCSharp_3_funciones\CursoCSharp_3_funciones.csproj", "{976A6E5C-37D5-4EA5-BB85-29640DD2D581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_4_Paso_valor_referencia", "..\CursoCSharp_4_Paso_valor_referencia\CursoCSharp_4_Paso_valor_referencia.csproj", "{D8054858-010D-4069-8DAD-02A86556FCB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{976A6E5C-37D5-4EA5-BB85-29640DD2D581}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{976A6E5C-37D5-4EA5-BB85-29640DD2D581}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{976A6E5C-37D5-4EA5-BB85-29640DD2D581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8054858-010D-4069-8DAD-02A86556FCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8054858-010D-4069-8DAD-02A86556FCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8054858-010D-4069-8DAD-02A86556FCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8054858-010D-4069-8DAD-02A86556FCB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
