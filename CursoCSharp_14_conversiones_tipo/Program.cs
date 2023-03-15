@@ -30,7 +30,7 @@ namespace CursoCSharp_14_conversiones_tipo
 
 
             double doubleValor = 8.45;
-            int enteroValor = Toint32(doubleValor);
+            int enteroValor = ToInt32(doubleValor);
             Convert.ToInt32(doubleValor);
 
         }
