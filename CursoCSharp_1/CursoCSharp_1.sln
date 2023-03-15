@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejemplo_1_4-5", "..\ejemplo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_4_constantes", "..\CursoCSharp_4_constantes\CursoCSharp_4_constantes.csproj", "{7B74ED26-830A-4874-ABB7-E2AE01B81414}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_10_foreach", "..\CursoCSharp_10_foreach\CursoCSharp_10_foreach.csproj", "{2451E02C-274C-4C8A-84D9-4DD2F5B074C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_10_foreach", "..\CursoCSharp_10_foreach\CursoCSharp_10_foreach.csproj", "{2451E02C-274C-4C8A-84D9-4DD2F5B074C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_11_operadores", "..\CursoCSharp_11_operadores\CursoCSharp_11_operadores.csproj", "{F47FB067-CEEF-4F1B-A88F-BA12C5A16655}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_11_operadores", "..\CursoCSharp_11_operadores\CursoCSharp_11_operadores.csproj", "{F47FB067-CEEF-4F1B-A88F-BA12C5A16655}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_12_leyendo_argumentos", "..\CursoCSharp_12_leyendo_argumentos\CursoCSharp_12_leyendo_argumentos.csproj", "{E27CC86B-8E28-43DC-9BE6-7272BA38D76F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_12_leyendo_argumentos", "..\CursoCSharp_12_leyendo_argumentos\CursoCSharp_12_leyendo_argumentos.csproj", "{E27CC86B-8E28-43DC-9BE6-7272BA38D76F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_13_arrays", "..\CursoCSharp_13_arrays\CursoCSharp_13_arrays.csproj", "{60719D67-DC7B-4696-83ED-26EDB1FEC4B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_13_arrays", "..\CursoCSharp_13_arrays\CursoCSharp_13_arrays.csproj", "{60719D67-DC7B-4696-83ED-26EDB1FEC4B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_14_conversiones_tipo", "..\CursoCSharp_14_conversiones_tipo\CursoCSharp_14_conversiones_tipo.csproj", "{D2FA9B9C-C89D-4CF7-8BB2-D0CC8022F183}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{60719D67-DC7B-4696-83ED-26EDB1FEC4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60719D67-DC7B-4696-83ED-26EDB1FEC4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60719D67-DC7B-4696-83ED-26EDB1FEC4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FA9B9C-C89D-4CF7-8BB2-D0CC8022F183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FA9B9C-C89D-4CF7-8BB2-D0CC8022F183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FA9B9C-C89D-4CF7-8BB2-D0CC8022F183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FA9B9C-C89D-4CF7-8BB2-D0CC8022F183}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
