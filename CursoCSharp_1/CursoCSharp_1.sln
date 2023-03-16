@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp_5_funciones_loc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_6_ejemplo_funciones", "..\CursoCSharp_5_ejemplo_funciones\CursoCSharp_6_ejemplo_funciones.csproj", "{678CFD5A-48F5-4653-98CC-308BFDE198DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoCSharp_1_Cadenas", "..\Cadenas\CursoCSharp_1_Cadenas\CursoCSharp_1_Cadenas.csproj", "{46A4515E-7C93-4793-A368-9A69F1652048}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{678CFD5A-48F5-4653-98CC-308BFDE198DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{678CFD5A-48F5-4653-98CC-308BFDE198DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{678CFD5A-48F5-4653-98CC-308BFDE198DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A4515E-7C93-4793-A368-9A69F1652048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A4515E-7C93-4793-A368-9A69F1652048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A4515E-7C93-4793-A368-9A69F1652048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A4515E-7C93-4793-A368-9A69F1652048}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
